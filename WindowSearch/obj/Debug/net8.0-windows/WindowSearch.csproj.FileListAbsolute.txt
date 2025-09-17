@@ -1,0 +1,17 @@
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\obj\Debug\net8.0-windows\WindowSearch.Form1.resources
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\obj\Debug\net8.0-windows\WindowSearch.Properties.Resources.resources
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\obj\Debug\net8.0-windows\WindowSearch.csproj.GenerateResource.cache
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\obj\Debug\net8.0-windows\WindowSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\obj\Debug\net8.0-windows\WindowSearch.AssemblyInfoInputs.cache
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\obj\Debug\net8.0-windows\WindowSearch.AssemblyInfo.cs
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\obj\Debug\net8.0-windows\WindowSearch.csproj.CoreCompileInputs.cache
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\bin\Debug\net8.0-windows\WindowSearch.exe
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\bin\Debug\net8.0-windows\WindowSearch.deps.json
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\bin\Debug\net8.0-windows\WindowSearch.runtimeconfig.json
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\bin\Debug\net8.0-windows\WindowSearch.dll
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\bin\Debug\net8.0-windows\WindowSearch.pdb
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\obj\Debug\net8.0-windows\WindowSearch.dll
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\obj\Debug\net8.0-windows\refint\WindowSearch.dll
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\obj\Debug\net8.0-windows\WindowSearch.pdb
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\obj\Debug\net8.0-windows\WindowSearch.genruntimeconfig.cache
+C:\Users\aurez\source\repos\WindowSearch\WindowSearch\obj\Debug\net8.0-windows\ref\WindowSearch.dll
